@@ -1,0 +1,32 @@
+Hola a tod@s!
+Espero que estén muy bien y entusiasmados por el inicio del curso, mañana (18/02/2023) a las 15 hs. (Hora Bs. As., Arg.) !
+
+Mi nombre es Gabriel (pueden decirme Gaby) y voy a ser el profesor/instructor que va a acompañarl@s en el curso.
+
+Soy un Desarrollador Fullstack y trabajo de manera autónoma (freelance) desde hace algunos años.
+Pueden ver mas info en [LinkedIn](https://www.linkedin.com/in/gabrielgonzalezr/)
+
+Algunas recomendaciones para la clase de mañana :
+
+1. 📷  Revisen la configuración del micrófono y cámara web 
+Es importante para mí por lo menos para esta primera clase, quiero conocerl@s!
+2. 🎥  Recuerden tener instalado y actualizado Zoom 
+Será la herramienta que usaremos para nuestras clases. Recibirán el link de acceso algunos minutos antes de la clase.
+3. 👨‍💻  Instalar el Editor de Código (IDE) que prefieras 
+Deberán tener instalado el IDE que les guste, son válidos : Visual Studio Code, Sublime Text, Atom, Web Storm, Eclipse, etc..
+4. 📝  Lugar donde tomar apuntes 
+Es válido lo analógico ( papel y lapicera ) y lo digital ( Notion, OneNote, Evernote, Block de Notas, Word, etc. ).
+5. 🙋  Dejar de lado el miedo a preguntar antes de iniciar la clase. 
+TODAS las dudas/preguntas son válidas, quizás tu consulta es la misma que otra persona. No hay que tener temor o vergüenza, yo estoy para responderlas o guiarlos en que juntos encontremos la solución.
+6. 🧉  ☕  Preparen mate, café o té para que los acompañe durante la cursada. No se olviden de tener agua siempre a mano! 😉  
+7. 🤓  Mucho entusiasmo y ganas de aprender! 
+
+Cualquier consulta, pueden escribirme por acá o a mi correo personal gabygonzalezromero@gmail.com. En ambos, suelo contestar lo antes posible, dentro de un horario coherente (generalmente por la tarde).
+
+Espero con ansias conocerl@s y acompañarl@s a transitar juntos los diferentes caminos hacia las metas profesionales que eligieron.
+
+Nos vemos en breve!
+
+Abrazo
+
+Gaby
